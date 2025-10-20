@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Playfair Display", serif;
+}
+
+body {
+    background: #ffffff;
+    overflow-x: hidden;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    font-size: larger;
+    background: #5A3825;
+}
+
+.logo {
+    width: 350px;
+    height: auto;
+    margin-left: 10px;
+}
+
+.hamburger-icon {
+    display: block;
+    margin-left: 20px;
+    width: 40px;
+    height: auto;
+    cursor: pointer;
+}
+
+.menu {
+    display: none;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 650;
+    transition: 0.3s;
+}
+
+.menu a:hover {
+    transform: translateY(-5px);
+}
+
+.img-topo {
+    width: 500px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.logo-bola {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 400px;
+    margin-left: 145px;
+}
+
+h1 {
+    color: #DFC05C;
+    text-align: center;
+    margin-top: 140px;
+}
+
+.resumo-inicio {
+    margin-bottom: 40px;
+    color: #DFC05C;
+    text-align: center;
+    padding: 35px 40px;
+    font-size: 22px;
+}
+
+.mercado {
+    color: #8F8F8F;
+    text-align: center;
+    padding: 35px 35px;
+    font-size: 18px;
+}
+
+.imagem-produto {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+}
+
+.imagem-produto img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.texto-imagem {
+    position: absolute;
+    color: #000;
+    background: #ffc800b3;
+    font-size: 18px;
+    font-weight: 800;
+    padding: 15px;
+    border-radius: 20px;
+    max-width: 75%;
+    line-height: 1.4;
+}
+
+.caixa1 {
+    top: 40px;
+    left: 10px;
+}
+
+.caixa2 {
+    bottom: 135px;
+    right: 10px;
+}
+
+.resumo-final {
+
+    color: #DFC05C;
+    text-align: center;
+    padding: 50px 80px;
+    font-size: 22px;
+}
+
+table {
+    width: 100%;
+    padding: 15px 20px;
+}
+
+.corte {
+    padding: 5px 30px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #DFC05C;
+}
+
+.numero {
+    padding: 5px 30px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #8F8F8F;
+}
+
+
+.botao {
+    display: flex;
+    justify-self: center;
+    margin-top: 20px;
+    background-color: #5A3825;
+    /* Marrom */
+    color: #DFC05C;
+    /* Dourado */
+    border: 2px solid #DFC05C;
+    /* Borda dourada */
+    border-radius: 25px;
+    /* Bordas arredondadas */
+    padding: 12px 40px;
+    /* Espaçamento interno */
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    transition: 0.3s;
+    text-align: center;
+}
+
+/* Efeito hover */
+.botao:hover {
+    background-color: #DFC05C;
+    /* Fundo dourado */
+    color: #5A3825;
+    /* Texto marrom */
+    transform: scale(1.05);
+    /* Leve aumento */
+    box-shadow: 0 0 10px rgba(212, 175, 55, 0.6);
+}
