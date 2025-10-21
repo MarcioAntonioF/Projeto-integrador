@@ -8,3 +8,5 @@ Link Do Figma: https://www.figma.com/design/zwDw2HmotKPnmMBSj2U7LW/Barber?node-i
 
 
 A escolha para o projeto foi uma barbearia, ja ouvi muito as pessoas falando sobre fazer um site para suas barbearias, por ser algo até que simples, que não precisa de muitas páginas ou algo complicado, só tem que ser algo direto e fácil para o cliente. Os elementos essenciais para o site são, uma tabela com os preços dos cortes, um lugar para entrar em contato e deixar uma mensagem e tambem as redes sociais no footer, onde você pode entrar em contato diretamente com a barbearia.
+
+A fonte "Playfair Display" foi escolhida porque traz um ar de barbearia elegante e confiável, pensando o que o cliente sentiria quando usasse nosso site A cor amarela foi escolhida pensando no nome da barbearia que é Navalha de Ouro, e o marrom foi pensado nessa estetica de barbearia mais clássica.
