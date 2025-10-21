@@ -1,0 +1,246 @@
+@media (min-width: 768px) and (max-width: 991px) {
+
+    header {
+        justify-content: space-between;
+        padding: 20px 10px;
+    }
+
+    .hamburger-icon {
+        display: none;
+    }
+
+    .menu {
+        display: flex;
+        margin-left: 5px;
+        align-items: center;
+    }
+
+    .menu a {
+        color: #000000;
+        font-size: 28px;
+        font-weight: 700;
+        margin-right: 50px;
+    }
+
+    .menu a:hover {
+        color: #DFC05C;
+        transition: 0.3s;
+    }
+
+    .img-topo {
+        width: 100%;
+        height: 400px;
+    }
+
+    .logo-bola {
+        width: 230px;
+        height: 230px;
+        top: 430px;
+        left: 40%;
+        transform: translateX(-70%);
+    }
+
+    h1 {
+        font-size: 36px;
+    }
+
+    .resumo-inicio,
+    .resumo-final {
+        font-size: 24px;
+        padding: 40px 100px;
+    }
+
+    .imagem-produto img {
+        height: 500px;
+    }
+
+    .texto-imagem {
+        font-size: 20px;
+        max-width: 60%;
+    }
+
+    .mercado {
+        font-size: 20px;
+        padding: 40px 80px;
+    }
+
+    table {
+        width: 60%;
+        margin: 0 auto;
+        font-size: 20px;
+        line-height: 1.6;
+    }
+
+    .corte {
+        padding: 5px 100px;
+
+    }
+
+
+    form {
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    input,
+    textarea {
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+        max-width: 600px;
+        margin: 15px auto;
+    }
+
+    footer {
+        padding: 60px 0;
+    }
+
+    .footer-logo img {
+        width: 300px;
+    }
+}
+
+@media (min-width: 992px) {
+
+    header {
+        justify-content: space-between;
+        padding: 20px 40px;
+    }
+
+    .hamburger-icon {
+        display: none;
+    }
+
+    .menu {
+        display: flex;
+        gap: 25px;
+        align-items: center;
+    }
+
+    .menu a {
+        color: #000000;
+        font-size: 28px;
+        font-weight: 700;
+        margin-right: 50px;
+    }
+
+    .menu a:hover {
+        color: #DFC05C;
+        transition: 0.3s;
+    }
+
+    .img-topo {
+        width: 100%;
+        height: 550px;
+    }
+
+    .logo-bola {
+        width: 250px;
+        height: 250px;
+        top: 575px;
+        left: 40%;
+        transform: translateX(-50%);
+    }
+
+    .imagem-produto1 {
+        position: relative;
+        width: 100%;
+        text-align: center;
+    }
+
+    .imagem-produto1 img {
+        width: 100%;
+        height: auto;
+        display: block;
+        object-fit: cover;
+    }
+
+    .imagem-produto2 {
+        position: relative;
+        width: 100%;
+        text-align: center;
+    }
+
+    .imagem-produto2 img {
+        width: 100%;
+        height: 700px;
+        display: block;
+        object-fit: cover;
+    }
+
+    .texto-imagem {
+        position: absolute;
+        color: #000;
+        background: #ffc800b3;
+        font-size: 20px;
+        font-weight: 800;
+        border-radius: 20px;
+        max-width: 60%;
+        line-height: 2rem;
+    }
+
+
+    .caixa1 {
+        padding: 50px;
+        top: 150px;
+        left: 60px;
+    }
+
+    .caixa2 {
+        padding: 50px;
+        bottom: 170px;
+        right: 60px;
+    }
+
+    .resumo-inicio,
+    .resumo-final {
+        font-size: 28px;
+        padding: 50px 200px;
+    }
+
+    .mercado {
+        font-size: 20px;
+        padding: 40px 200px;
+    }
+
+    table {
+        width: 60%;
+        margin: 0 auto;
+        font-size: 20px;
+        line-height: 1.6;
+    }
+
+    .corte {
+        padding: 5px 100px;
+
+    }
+
+    button {
+        font-size: 22px;
+        padding: 15px 50px;
+    }
+
+    form {
+        margin: 0 auto;
+        width: 60%;
+    }
+
+    footer {
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 80px 100px;
+    }
+
+    .footer-logo img {
+        width: 320px;
+    }
+
+    footer p {
+        font-size: 22px;
+    }
+
+    .redes img {
+        width: 55px;
+        height: 55px;
+    }
+}
