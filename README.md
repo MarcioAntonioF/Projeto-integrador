@@ -42,6 +42,49 @@ Aprendizados Técnicos:
 
 6.2. Reflexão da dupla
 
+Evolução do Projeto:
+
+- Evoluiu muito bem, com muitas implementações positivas no site. 
+
+- Acho que foi a parte da responsividade, que trouxe outra cara pro site.
+
+- Atende sim.
+
+	Feedbacks Recebidos:
+
+- A parte da organização e manutenção do código é o que mais deixa a desejar nesse projeto.
+
+- Esses da organização mesmo, que deixa a gente mais atento para a criação de um outro projeto futuro. 
+
+- Em futuros projetos.
+
+	Relevância para o Negócio:
+
+- Nós achamos que sim, pois barbearias quase não tem site, então até um site mediano ajudaria o dono do negócio. 
+
+- Que nós criamos um site para facilitar o agendamento na barbearia dele.
+
+- Creio que não, só se fossemos pegar esse projeto para melhorar e deixar ele bem melhor, mas atualmente não.
+
+"Próximos Passos e Melhorias Futuras":
+
+Melhorias Técnicas Planejadas:
+
+- Adicionar um Slider no site.
+- Melhorar a navegação.
+
+Conhecimentos a Aprofundar:
+
+- Aprofundar em JavaScript
+- Aprender React
+- Alem do css puro, aprender Tailwind CSS
+
+  
+
+
+
+
+
 
 
 
